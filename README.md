@@ -25,7 +25,6 @@ Disease-Prediction-App
 
 train_model.py – Script used to train the machine learning model  
 treatment_app.py – Streamlit web application  
-disease_treatment_model.pkl – Saved trained model  
 disease_treatment_500.xlsx – Dataset used for training  
 requirements.txt – Required Python libraries
 
@@ -54,6 +53,8 @@ streamlit run treatment_app.py
 ## Output
 
 The application allows users to input symptoms and predicts the most likely disease along with recommended treatment options.
+
+Note: The trained model file (.pkl) is generated automatically by running train_model.py.
 
 ## Future Improvements
 
