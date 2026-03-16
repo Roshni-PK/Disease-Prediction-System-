@@ -28,6 +28,12 @@ treatment_app.py – Streamlit web application
 disease_treatment_500.xlsx – Dataset used for training  
 requirements.txt – Required Python libraries
 
+## Application Screenshot
+
+This screenshot shows the Disease Prediction System interface where users can enter symptoms and receive predicted diseases along with treatment recommendations.
+
+![Disease Prediction App](Screenshot%202026-03-16%20232402.png)
+
 ## How to Run the Project
 
 1. Clone the repository
